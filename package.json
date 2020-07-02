@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-tut",
+  "version": "1.0.0",
+  "description": "TailwindCSS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrennenRocks/tailwind-tut.git"
+  },
+  "author": "TailwindCSS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrennenRocks/tailwind-tut/issues"
+  },
+  "homepage": "https://github.com/BrennenRocks/tailwind-tut#readme"
+}
