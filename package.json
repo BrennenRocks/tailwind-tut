@@ -4,7 +4,7 @@
   "description": "TailwindCSS tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrennenRocks/tailwind-tut/issues"
   },
-  "homepage": "https://github.com/BrennenRocks/tailwind-tut#readme"
+  "homepage": "https://github.com/BrennenRocks/tailwind-tut#readme",
+  "dependencies": {
+    "tailwindcss": "^1.6.2"
+  }
 }
